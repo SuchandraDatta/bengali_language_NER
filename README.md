@@ -5,7 +5,7 @@ Fine-tuning bert-base-multilingual-cased on Wikiann dataset for performing NER o
 <ul>
   <li>Model checkpoint initially selected as mbert uncased</li>
   <li>Using mbert uncased, the words passed to encode and the output from decode doesn't match (changed spelling)</li>
-  <li>The spelling of words gets changed, due to normalization issues in mbert uncased, so the correct one is mbert uncased 
+  <li>This is due to normalization issues in mbert uncased, so the correct one is mbert cased 
   <br/>refer<a href="https://github.com/google-research/bert/blob/master/multilingual.md"> https://github.com/google-research/bert/blob/master/multilingual.md</a></li>
 </ul>
 <h3>Results</h3>
