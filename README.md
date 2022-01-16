@@ -19,4 +19,6 @@ Fine-tuning bert-base-multilingual-cased on Wikiann dataset for performing NER o
 
 Available at https://huggingface.co/Suchandra/bengali_language_NER 
 
-![Untitled](https://user-images.githubusercontent.com/41965125/149657973-2dd50fbb-257f-448b-a592-db2f991b5684.png)
+![Untitled](https://user-images.githubusercontent.com/41965125/149658475-7e8f230c-4e28-4fbe-a3c2-199341518c42.png)
+
+![Untitled](https://user-images.githubusercontent.com/41965125/149658411-ce096279-ccc9-46a3-b4f3-aa0bafc6bf14.png)
