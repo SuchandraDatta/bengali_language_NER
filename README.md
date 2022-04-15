@@ -18,7 +18,7 @@ Fine-tuning bert-base-multilingual-cased on Wikiann dataset for performing NER o
 | Test set | 0.9673011 | 0.967120 |  0.963614 | 0.970938 |
 
 
-![pic](https://user-images.githubusercontent.com/41965125/163571286-563d9b93-1c75-4787-b2cd-0d3663e06f59.png)
+<img src="./pic.png"></img>
 
 
 ![Untitled](https://user-images.githubusercontent.com/41965125/149658411-ce096279-ccc9-46a3-b4f3-aa0bafc6bf14.png)
