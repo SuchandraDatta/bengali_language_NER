@@ -2,6 +2,7 @@
 <br/>
 Fine-tuning bert-base-multilingual-cased on Wikiann dataset for performing NER on Bengali language.
 <br/>
+<h5>Model available on Huggingface Model Hub at https://huggingface.co/Suchandra/bengali_language_NER  </h5>
 <ul>
   <li>Model checkpoint initially selected as mbert uncased</li>
   <li>Using mbert uncased, the words passed to encode and the output from decode doesn't match (changed spelling)</li>
@@ -17,9 +18,7 @@ Fine-tuning bert-base-multilingual-cased on Wikiann dataset for performing NER o
 | Test set | 0.9673011 | 0.967120 |  0.963614 | 0.970938 |
 
 
-Available at https://huggingface.co/Suchandra/bengali_language_NER 
-
-![Untitled](https://user-images.githubusercontent.com/41965125/150368270-d6f1bfe8-0525-490e-8f15-67ee98f8902d.png)
+![pic](https://user-images.githubusercontent.com/41965125/163571286-563d9b93-1c75-4787-b2cd-0d3663e06f59.png)
 
 
 ![Untitled](https://user-images.githubusercontent.com/41965125/149658411-ce096279-ccc9-46a3-b4f3-aa0bafc6bf14.png)
